@@ -1,0 +1,168 @@
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100vw;
+    margin: 0 auto;
+    padding-inline: 10px;
+    height: auto;
+    padding-bottom: 0;
+  }
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-inline: 10px;
+  }
+  .navigation p {
+    display: none;
+  }
+  .links {
+    gap: 15px;
+  }
+  .sign-in-start-button {
+    gap: 20px;
+  }
+  .info-signup-section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .info-signup-section p {
+    padding: 0;
+  }
+  .process-buttons-section {
+    display: flex;
+    flex-direction: column;
+  }
+  .trusted-companies-section {
+    margin-top: 50px;
+  }
+  .shakir-container {
+    display: none;
+  }
+  .company-logos {
+    display: none;
+  }
+  .play-button {
+    display: none;
+  }
+  .green-shield {
+    display: none;
+  }
+  .crypto-info-section {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    height: auto;
+    padding: 0;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .users-choose-us-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .choose-information {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .choose-information ul {
+    padding-left: 30vw;
+  }
+  .choose-information h3 {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    margin-top: 15px;
+    margin-bottom: 30px;
+  }
+  .section {
+    margin-top: 50px;
+    padding-inline: 10px;
+  }
+  .middle-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+  .box {
+    background: #ffffff;
+    width: auto;
+    height: auto;
+    border: 1px solid #dfdfdf;
+    border-radius: 22px;
+    margin: 20px;
+    padding: 50px 20px 40px 20px;
+    align-content: center;
+  }
+  .banner {
+    padding: 0;
+  }
+  .banner-title {
+    display: flex;
+    flex-direction: column;
+  }
+  .boxes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .grid-box {
+    row-gap: 10px;
+  }
+  .bottom-section {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    text-align: center;
+    padding-inline: 10px;
+  }
+  .bottom-info {
+    padding: 0;
+    padding-top: 20px;
+    margin-bottom: 20px;
+  }
+  .bottom-info h4 {
+    margin-bottom: 30px;
+  }
+  .bottom-sign-up-form {
+    padding: 10px;
+  }
+  .footer {
+    max-width: 2000px;
+    padding-inline: 10px;
+    padding-bottom: 20px;
+  }
+  .company-resources-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+  .social-media-links {
+    padding-right: 0;
+  }
+  .subscribe-form {
+    display: flex;
+    flex-direction: column;
+  }
+  .social-media-links {
+    text-align: center;
+  }
+  .company-links {
+    text-align: center;
+  }
+  .resource-links {
+    text-align: center;
+  }
+  .join-us {
+    text-align: center;
+  }
+  .subscribe-form {
+    align-items: center;
+  }
+  .subscribe-form input {
+    margin-bottom: 10px;
+  }
+}
